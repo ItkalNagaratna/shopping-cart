@@ -1,0 +1,112 @@
+[
+    {
+      "id":"1",
+      "brandName":"Pillsbury",
+      "productName":"Pillsbury Multi Grain Atta",
+      "description":"Unique mix of 7 natural grains : wheat, soy, maize, ragi, chana dal, oats and barley in the right proportion",
+      "quantity":"5 kg",
+      "mrp":"310.00",
+      "price":"219.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71yUVdf6t9L._SL1500_.jpg",
+      "offer":"29%"
+    },
+    {
+      "id":"2",
+      "brandName":"Sunfeast",
+      "productName":"Sunfeast Dark Fantasy Choco Fills",
+      "description":"Epitomizes the brand promise of pure indulgence, Enrobed within a perfectly baked rich cookie outer.    ",
+      "quantity":"600 g",
+      "mrp":"22.00",
+      "price":"19.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71yR4SYp3iL._SL1500_.jpg",
+      "offer":"18%"
+    },
+    {
+      "id":"3",
+      "brandName":"Roxo",
+      "productName":"ROXO P30 Wireless Bluetooth Headphone",
+      "description":"ROXO P30 Wireless Bluetooth Headphone Memory Card and AUX Support (Blue), AMAZING SOUND AND BUILT TO STAY COMFORTABLE",
+      "quantity":"1",
+      "mrp":"1499.00",
+      "price":"869.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71X-bX3ozYL._SL1500_.jpg",
+      "offer":"(42%)"
+    },
+    {
+      "id":"4",
+      "brandName":"Loreal Paris",
+      "productName":"Loreal Paris Total Repair 5 Shampoo",
+      "description":"Helps fight against the five visible signs of damaged hair - hair fall, dryness, roughness, dullness, and split ends",
+      "quantity":"1 L",
+      "mrp":"399.00",
+      "price":"799.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/61YKD5x27CL._SL1000_.jpg",
+      "offer":"(50%)"
+    },
+    {
+      "id":"5",
+      "brandName":"Fortune",
+      "productName":"Fortune Xpert Pro Immunity",
+      "description":"100+ Natural antioxidants to help strengthen your immune system, Vitamin A,D, E to improve your immune responses and help against bacterial and viral infections  ",
+      "quantity":"5 L",
+      "mrp":"750.00",
+      "price":"675.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81vUJK698YL._SL1500_.jpg",
+      "offer":"(60%)"
+    },
+    {
+      "id":"6",
+      "brandName":"Dabur",
+      "productName":"Dabur Honey",
+      "description":"Dabur Honey 100% Pure World's No.1 Honey Brand with No Sugar Adulteration , Squeezy Pack - 225g (Buy 1 Get 1 Free)",
+      "quantity":"100 g",
+      "mrp":"140.00",
+      "price":"99.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81I32cy20JL._SL1500_.jpg",
+      "offer":"(29%)"
+    },
+    {
+      "id":"7",
+      "brandName":"Maggi",
+      "productName":"Maggi Pazzta Masala Penne",
+      "description":"Lip-smacking pasta in a saucy mix, Made from 100% suji/ rawa, Ready in just 5-minutes for instant snacking",
+      "quantity":"65 g",
+      "mrp":"25.00",
+      "price":"21.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81xadE2ZfXL._SL1500_.jpg",
+      "offer":"(16%)"
+    },
+    {
+      "id":"8",
+      "brandName":"Solimo",
+      "productName":" Solimo 4 Piece Storage Basket Set, Brown",
+      "description":"Made sturdy from high-quality virgin PP plastic, Dimensions- Large: LWH: 380 x 320 x 140 mm, Weight: 420 gm; Medium: LWH: 240 x 200 x 100 mm, Weight: 160 gm; Small: LWH: 200 x 140 x 60 mm, Weight: 90 gm",
+      "quantity":"1 ",
+      "mrp":"1000.00",
+      "price":"469.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/91%2BD1HoOX9L._SL1500_.jpg",
+      "offer":"(53%)"
+    },
+    {
+      "id":"9",
+      "brandName":"Solimo",
+      "productName":"Solimo Microfiber Reversible Comforter",
+      "description":"Amazon Brand - Solimo Microfiber Reversible Comforter, Single (Aqua Blue & Olive Green, 200 GSM)",
+      "quantity":"1 ",
+      "mrp":"2000.00",
+      "price":"1199.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/91JNmgQStIL._SL1500_.jpg",
+      "offer":"(50%)"
+    },
+    {
+      "id":"10",
+      "brandName":"Solimo",
+      "productName":"Solimo Wi-Fi Smart Light",
+      "description":"Solimo Wi-Fi Smart Light, 12W, B22 Holder, Alexa Enabled (Yellow/Light Yellow/White)",
+      "quantity":"1 ",
+      "mrp":"1000.00",
+      "price":"499.00",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71bltWjd65L._SL1500_.jpg",
+      "offer":"(50%)"
+    }
+  ]
